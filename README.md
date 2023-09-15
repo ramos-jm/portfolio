@@ -27,7 +27,10 @@ line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <h3 align = "center">Certificates📜</h3>
 
 
-<a align = "center"><a href= "https://simpli-web.app.link/e/iJyyiWeV6Cb">![thumb_4498796_1694084280](https://github.com/ramos-jm/portfolio/assets/127398189/32570292-da07-4bf6-a7f3-5cb8b4e89dbe)</a><a/>
+
+
+
+<a href= "https://simpli-web.app.link/e/iJyyiWeV6Cb">![Business in Excel](https://github.com/ramos-jm/portfolio/assets/127398189/55755757-5baf-4803-ab7f-42fa6771e177)</a>
 <h3 align = "center"><a href="https://simpli-web.app.link/e/iJyyiWeV6Cb">Business Analytics with Excel</a></h3><p align = "center">September 07,2023</p>
 
 <a href ="https://simpli-web.app.link/e/iJyyiWeV6Cb">![Coursera IT Support Specialist](https://github.com/ramos-jm/portfolio/assets/127398189/b10dce4f-05f3-4b3a-b7f1-8f0143679018)</a> 
